@@ -1338,11 +1338,11 @@ var GLocal = {
     
       "LT_Region_DisplayName_user_hn_group"    : "Ginebra DC3",
       "LT_Region_ShortDescription_user_hn_group": "<p>Lugar: Ginebra, Suiza</p>",
-      "LT_Region_Description_user_hn_group"    : "<p>Lugar: Ginebra, Suiza. <br><br>Parámetros de HW:</p><ul><li>Dominio: %(domain)</li><li>Vendedor de hardware: Infomaniak (servidores Dell físicos)</li></ul><p>Motores de aplicaciones disponibles:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>contenedores Docker</li>",
+      "LT_Region_Description_user_hn_group"    : "<p>Lugar: Ginebra, Suiza. <br><br>Parámetros de HW:</p><ul><li>Dominio: %(domain)</li><li>Vendedor de hardware: imprendi (servidores Dell físicos)</li></ul><p>Motores de aplicaciones disponibles:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>contenedores Docker</li>",
   
       "LT_Region_DisplayName_user2_hn_group"    : "Ginebra DC2",
       "LT_Region_ShortDescription_user2_hn_group": "<p>Lugar: Ginebra, Suiza</p>",
-      "LT_Region_Description_user2_hn_group"    : "<p>Lugar: Ginebra, Suiza<br><br>Parámetros de HW:</p><ul><li>Dominio: %(domain)</li><li>Vendedor de hardware: Infomaniak (servidores Dell físicos)</li></ul><p>Motores de aplicaciones disponibles:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>contenedores Docker</li>",
+      "LT_Region_Description_user2_hn_group"    : "<p>Lugar: Ginebra, Suiza<br><br>Parámetros de HW:</p><ul><li>Dominio: %(domain)</li><li>Vendedor de hardware: imprendi (servidores Dell físicos)</li></ul><p>Motores de aplicaciones disponibles:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>contenedores Docker</li>",
     
     LT_Settings_Label_Endpoints : "Extremos",
     LT_EnvEndpoints_Column_Name : "Nombre",
@@ -1490,7 +1490,7 @@ var GLocal = {
     LT_AppStore_Action_Add2Favorites : "Añadir a Favoritos",
     LT_AppStore_Action_RemoveFavorites : "Quitar de Favoritos",
     LT_AppStore_Favorites_Text_EmptyList : "Marca las soluciones más utilizadas como Favoritas para poder acceder fácilmente a ellas a través de esta pestaña.",
-    LT_TutorSlider_Text_Welcome : "Bienvenido al PaaS de Infomaniak",
+    LT_TutorSlider_Text_Welcome : "Bienvenido al PaaS de imprendi",
     LT_TutorSlider_Text_OtherVendors : "Otros vendedores en la nube",
     LT_TutorSlider_Label_Time : "Tiempo",
     LT_TutorSlider_Label_Resources : "Recursos",
@@ -2118,7 +2118,7 @@ var GLocal = {
     LT_DockerSettings_Vols_HelpTip : "Consulta la [URL_DOCS_DOCKER_VOLUMES]documentación[/URL_DOCS_DOCKER_VOLUMES] para conocer más detalles sobre los volúmenes de los contenedores Docker.",
     LT_DockerSettings_RunArgs_HelpTip : "Consulta la [URL_DOCS_DOCKER_RUN_ARGS]documentación [/URL_DOCS_DOCKER_RUN_ARGS] para conocer más detalles sobre las opciones de funcionamiento de los contenedores Docker.",
     LT_TutorSlider_Text_PrAdvantages : "Paga solamente lo que consumas",
-    LT_TutorSlider_Title_Benefits : "Las ventajas de Infomaniak Cloud",
+    LT_TutorSlider_Title_Benefits : "Las ventajas de imprendi Cloud",
     LT_TutorSlider_Title_SaveMoney : "Ajusta tu consumo de recursos",
     LT_TutorSlider_Title_Build : "Construye la topología de tu aplicación",
     LT_TutorSlider_Build_Left_Container : "Contenedor",

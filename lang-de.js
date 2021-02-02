@@ -1337,11 +1337,11 @@ var GLocal = {
     
       "LT_Region_DisplayName_user_hn_group"    : "Genf DC3",
       "LT_Region_ShortDescription_user_hn_group": "<p>Standort: Genf, Schweiz</p>",
-      "LT_Region_Description_user_hn_group"    : "<p>Standort: Genf, Schweiz. <br><br>HW-Parameter:</p><ul><li>Domain: %(domain)</li><li>Hardware-Anbieter: Infomaniak (physische Dell-Server)</li></ul><p>Verfügbare Application Engines:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>Docker-Container</li>",
+      "LT_Region_Description_user_hn_group"    : "<p>Standort: Genf, Schweiz. <br><br>HW-Parameter:</p><ul><li>Domain: %(domain)</li><li>Hardware-Anbieter: imprendi (physische Dell-Server)</li></ul><p>Verfügbare Application Engines:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>Docker-Container</li>",
   
       "LT_Region_DisplayName_user2_hn_group"    : "Genf DC2",
       "LT_Region_ShortDescription_user2_hn_group": "<p>Standort: Genf, Schweiz</p>",
-      "LT_Region_Description_user2_hn_group"    : "<p>Standort: Genf, Schweiz. <br><br>HW-Parameter:</p><ul><li>Domain: %(domain)</li><li>Hardware-Anbieter: Infomaniak (physische Dell-Server)</li></ul><p>Verfügbare Application Engines:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>Docker-Container</li>",
+      "LT_Region_Description_user2_hn_group"    : "<p>Standort: Genf, Schweiz. <br><br>HW-Parameter:</p><ul><li>Domain: %(domain)</li><li>Hardware-Anbieter: imprendi (physische Dell-Server)</li></ul><p>Verfügbare Application Engines:</p><ul data-type=\"check\"><li>Java, PHP, Node.js, Ruby, Python</li><ul data-type=\"check\"><li>Docker-Container</li>",
       
     LT_Settings_Label_Endpoints : "Endpunkte",
     LT_EnvEndpoints_Column_Name : "Name",
@@ -1489,7 +1489,7 @@ var GLocal = {
     LT_AppStore_Action_Add2Favorites : "Zu Favoriten hinzufügen",
     LT_AppStore_Action_RemoveFavorites : "Aus Favoriten entfernen",
     LT_AppStore_Favorites_Text_EmptyList : "Markieren Sie die am häufigsten genutzten Lösungen als Favoriten, um einfacher über diesen Tab darauf zuzugreifen.",
-    LT_TutorSlider_Text_Welcome : "Willkommen bei Infomaniak PaaS",
+    LT_TutorSlider_Text_Welcome : "Willkommen bei imprendi PaaS",
     LT_TutorSlider_Text_OtherVendors : "Andere Cloud-Anbieter",
     LT_TutorSlider_Label_Time : "Zeit",
     LT_TutorSlider_Label_Resources : "Ressourcen",
